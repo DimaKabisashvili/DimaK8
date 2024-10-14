@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.header {
+    /**/
+}
+nav {
+    display: flex;
+    gap: 1rem; 
+}
+nav a {
+    text-decoration: solid;
+    color: #333;
+}
+nav a:last-child {
+    font-weight: bold;
+}
